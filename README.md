@@ -1,4 +1,7 @@
-# CursoNgrx
+# Sobre-About
+Projeto para estudo da gerencia de estado utilizando o NGRX com Angular 13
+
+## CursoNgrx
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
